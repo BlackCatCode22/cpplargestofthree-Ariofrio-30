@@ -1,8 +1,6 @@
-/* LargestOfThree.cpp : This file contains the 'main' function.Program execution begins and ends there.
-*
-* dH 2/15/23
+/* LargestOfThree.cpp : This file contains the 'main' function.Program execution begins and ends there. 2/15/23
 * demo for C++ Programming Class
-* 
+*AR 2/21/23
 * input: three ints from user
 * processing: calculate total and largest
 * output: total and largest to system console
@@ -24,7 +22,7 @@ int main()
     std::cout << "\n Hello from Largest of Three Program\n";
 
     // Declare some variables
-    int num1 = 0;
+    int num1 = 5;
     int num2 = 0;
     int num3 = 0;
     int largest = 0;
